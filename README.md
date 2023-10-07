@@ -45,4 +45,7 @@ I am a Data Geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asrst&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Satya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asrst&show_icons=true&theme=transparent)
+
+
 ---
