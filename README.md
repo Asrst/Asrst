@@ -26,6 +26,7 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satya-ram-adda/)
 
 ---
+
 ### Skills
 <br>
 <table border="1">
@@ -62,8 +63,8 @@
     <td>Azure Power BI Data Analytics, Databricks Apache Spark Developer, Data Engineering - DataCamp, Designing & Performing Statistical Experiments - DataCamp, Statistics with Python - DataCamp, Big Data Analytics – DASCA, Deep Learning Nano-degree by Udacity, Machine Learning - Univ.ai</td>
   </tr>
 </table>
-
 <br>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
