@@ -26,6 +26,45 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satya-ram-adda/)
 
 ---
+### Skills
+<br>
+<table border="1">
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>Python, SQL, R, Scala, Shell</td>
+  </tr>
+  <tr>
+    <td><b>Data Warehousing</b></td>
+    <td>AWS Redshift, Azure Synapse Analytics, PostgreSQL, Data Lake, Delta Tables, Data Modeling</td>
+  </tr>
+  <tr>
+    <td><b>ETL Tools</b></td>
+    <td>Airflow, Dbt – Data build tool, Airbyte, AWS Glue, Azure Data Factory, Spark, Kafka</td>
+  </tr>
+  <tr>
+    <td><b>Cloud Technologies</b></td>
+    <td>AWS Lambda, S3, Glue Data Catalog, Athena, Databricks, Kinesis, Sagemaker, Cloud Watch, GCS</td>
+  </tr>
+  <tr>
+    <td><b>Tools/Frameworks</b></td>
+    <td>Numpy, Pandas, PySpark, REST APIs, VS Code, Jupyter, CI/CD, Terraform, Docker, Git, SQL Workbench</td>
+  </tr>
+  <tr>
+    <td><b>Machine Learning</b></td>
+    <td>Regression, Classification, Deep Learning, Ensemble Learning, A/B Testing, MLlib, Scikit-Learn, Keras</td>
+  </tr>
+  <tr>
+    <td><b>Data Visualization</b></td>
+    <td>Tableau, Azure Power BI, Plotly, Dash, Matplotlib, Seaborn, ggplot2</td>
+  </tr>
+  <tr>
+    <td><b>Certifications</b></td>
+    <td>Azure Power BI Data Analytics, Databricks Apache Spark Developer, Data Engineering - DataCamp, Designing & Performing Statistical Experiments - DataCamp, Statistics with Python - DataCamp, Big Data Analytics – DASCA, Deep Learning Nano-degree by Udacity, Machine Learning - Univ.ai</td>
+  </tr>
+</table>
+
+<br>
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
