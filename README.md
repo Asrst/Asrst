@@ -16,8 +16,8 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data Geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer (Data), building end-to-end applications supporting data science and analytics. I have expertise in training & deploying machine learning models, deep learning use-cases (NLP), ETL, data pipelines and dashboarding.
+
+- :telescope: I am a Data Geek <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with 5 years of work experience in Data Engineer, Data Science and ML roles. I have hands on experience building end-to-end applications supporting data science and analytics, with expertise in desigining data warehouses, ETL, data pipelines, creating data visulization dashboards, training & deploying machine learning models, deep learning use-cases (NLP).
 
 - :zap: In my free time, I contribute to open-source and read tech articles.
 
