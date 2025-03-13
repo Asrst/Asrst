@@ -27,7 +27,7 @@
 
 ---
 
-### Skills
+### Skills:
 <br>
 <table border="1">
   <tr>
